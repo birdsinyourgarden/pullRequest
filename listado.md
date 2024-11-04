@@ -10,3 +10,5 @@ Alumnado (Apellidos, Nombre):
 
 - Nechita, George Alexandru
 
+- Cabello Gallego, Sammy
+
