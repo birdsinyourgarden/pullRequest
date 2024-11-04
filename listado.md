@@ -4,6 +4,8 @@ Añádete como alumno/a y pon tus apellidos, nombre pero pon un guión (-) para 
 
 Alumnado (Apellidos, Nombre): 
 
+- Vega Viñuelas, Manuel
+
 - Álvaro Rodríguez Pizarro
 
 - Nechita, George Alexandru
