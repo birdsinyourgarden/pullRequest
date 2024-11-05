@@ -14,3 +14,4 @@ Alumnado (Apellidos, Nombre):
 
 - Díaz Miranda, Francisco Javier
 
+- Corona López, Gerardo
