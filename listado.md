@@ -12,3 +12,5 @@ Alumnado (Apellidos, Nombre):
 
 - Cabello Gallego, Sammy
 
+- Díaz Miranda, Francisco Javier
+
