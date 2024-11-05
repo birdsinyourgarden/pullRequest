@@ -5,3 +5,4 @@ Añádete como alumno/a y pon tus apellidos, nombre pero pon un guión (-) para 
 Alumnado (Apellidos, Nombre): 
 - Nechita, George Alexandru
 - Díaz Miranda, Francisco Javier
+- Corona López, Gerardo
