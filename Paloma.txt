@@ -18,4 +18,6 @@ Alumnado (Apellidos, Nombre):
 
 - Julia Naranjo Gimena
 
+- David Beneito Pastor
+
 -Paloma 
