@@ -15,3 +15,5 @@ Alumnado (Apellidos, Nombre):
 - Díaz Miranda, Francisco Javier
 
 - Corona López, Gerardo
+
+- Goltzman Peist Coral
