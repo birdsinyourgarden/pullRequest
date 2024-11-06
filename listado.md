@@ -11,3 +11,5 @@ Alumnado (Apellidos, Nombre):
 - Nechita, George Alexandru
 
 - Garcia Diaz Javier
+
+- Paloma
