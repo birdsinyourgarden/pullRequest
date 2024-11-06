@@ -10,3 +10,4 @@ Alumnado (Apellidos, Nombre):
 
 - Nechita, George Alexandru
 
+- Pernia Ponce, Miguel
